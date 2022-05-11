@@ -17,7 +17,7 @@ public class Main {
             System.out.println("2 - Mostrar as informações dos carrinhos salvos no arquivo");
             System.out.println("3 - Ordenar os carrinhos em ordem crescente de velocidade");
             System.out.println("4 - Ordenar os carrinhos em ordem decrescente de velocidade");
-            System.out.println("5 - Sair");
+            System.out.println("5 - Sair!");
 
             int op = sc.nextInt();
             sc.nextLine();
